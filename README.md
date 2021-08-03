@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasisay
 - 👀 I’m interested in programming in general.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on projects that requiire beginner to intermediate knowledge of Javascript,html and css. I have some knowledge of Php and Python.
+- 💞️ I’m looking to collaborate on projects that require beginner to intermediate knowledge of Javascript,html and css. I have some knowledge of Php and Python.
 - 📫 My email address is sisayj7@gmail.com
 
 <!---
